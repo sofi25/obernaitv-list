@@ -1,8 +1,8 @@
-name: Auto Update Football Matches
+name: Update Football Matches
 on:
   schedule:
-    - cron: '0 * * * *' # يعمل تلقائياً كل ساعة
-  workflow_dispatch: # يسمح لك بتشغيله يدوياً بضغطة زر للتجربة فوراً
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,19 +12,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch Matches
+      - name: Fetch Today Matches
         run: |
           python3 -c '
           import urllib.request, json
 
           leagues = [
               ("uefa.champions", "دوري أبطال أوروبا"),
+              ("uefa.europa", "الدوري الأوروبي"),
               ("eng.1", "الدوري الإنجليزي"),
               ("esp.1", "الدوري الإسباني"),
               ("ita.1", "الدوري الإيطالي"),
               ("ger.1", "الدوري الألماني"),
-              ("fra.1", "الدوري الفرنسي")
+              ("fra.1", "الدوري الفرنسي"),
+              ("caf.nations", "كأس أمم أفريقيا"),
+              ("fifa.worldq.caf", "تصفيات كأس العالم")
           ]
+
+          teams_ar = {
+              "Real Madrid": "ريال مدريد", "Barcelona": "برشلونة", "Atletico Madrid": "أتلتيكو مدريد",
+              "Liverpool": "ليفربول", "Man City": "مانشستر سيتي", "Man United": "مانشستر يونايتد",
+              "Arsenal": "آرسنال", "Chelsea": "تشيلسي", "Tottenham": "توتنهام",
+              "Bayern Munich": "بايرن ميونخ", "Borussia Dortmund": "دورتموند",
+              "PSG": "باريس سان جيرمان", "Marseille": "مارسيليا", "Lyon": "ليون",
+              "Inter": "إنتر ميلان", "AC Milan": "ميلان", "Juventus": "يوفنتوس", "Napoli": "نابولي",
+              "Algeria": "الجزائر", "Morocco": "المغرب", "Tunisia": "تونس", "Egypt": "مصر"
+          }
+
           matches = []
           for code, ar_name in leagues:
               try:
@@ -36,13 +50,15 @@ jobs:
                       c0, c1 = comp["competitors"][0], comp["competitors"][1]
                       state = ev["status"]["type"]["state"]
                       status = "LIVE" if state == "in" else ("FINISHED" if state == "post" else "UPCOMING")
-                      time_str = ev.get("date", "")[11:16] + " UTC"
+                      time_str = ev.get("date", "")[11:16] + " GMT"
                       score = f"{c0.get(\"score\",\"0\")} - {c1.get(\"score\",\"0\")}" if status != "UPCOMING" else time_str
+                      h_raw = c0["team"]["shortDisplayName"]
+                      a_raw = c1["team"]["shortDisplayName"]
                       matches.append({
                           "league": ar_name,
-                          "homeTeam": c0["team"]["shortDisplayName"],
+                          "homeTeam": teams_ar.get(h_raw, h_raw),
                           "homeLogo": c0["team"].get("logo", ""),
-                          "awayTeam": c1["team"]["shortDisplayName"],
+                          "awayTeam": teams_ar.get(a_raw, a_raw),
                           "awayLogo": c1["team"].get("logo", ""),
                           "time": time_str,
                           "status": status,
@@ -55,9 +71,9 @@ jobs:
           with open("matches.json", "w", encoding="utf-8") as f:
               json.dump(matches, f, ensure_ascii=False, indent=2)
           '
-      - name: Commit and Push
+      - name: Save to Repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@://github.com"
           git add matches.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update matches" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update matches" && git push)
