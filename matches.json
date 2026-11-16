@@ -1,0 +1,35 @@
+[
+  {
+    "league": "تصفيات كأس العالم",
+    "homeTeam": "الجزائر",
+    "homeLogo": "https://espncdn.com",
+    "awayTeam": "ليبيريا",
+    "awayLogo": "https://espncdn.com",
+    "time": "17:00",
+    "status": "UPCOMING",
+    "score": "17:00",
+    "channel": "ENTV"
+  },
+  {
+    "league": "دوري الأمم الأوروبية",
+    "homeTeam": "إسبانيا",
+    "homeLogo": "https://espncdn.com",
+    "awayTeam": "سويسرا",
+    "awayLogo": "https://espncdn.com",
+    "time": "20:45",
+    "status": "UPCOMING",
+    "score": "20:45",
+    "channel": "BEIN 1"
+  },
+  {
+    "league": "دوري الأمم الأوروبية",
+    "homeTeam": "كرواتيا",
+    "homeLogo": "https://espncdn.com",
+    "awayTeam": "البرتغال",
+    "awayLogo": "https://espncdn.com",
+    "time": "20:45",
+    "status": "UPCOMING",
+    "score": "20:45",
+    "channel": "BEIN 2"
+  }
+]
