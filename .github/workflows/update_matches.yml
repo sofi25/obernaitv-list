@@ -1,0 +1,88 @@
+name: Auto Update Matches
+
+on:
+  schedule:
+    # يعمل تلقائياً كل 3 ساعات طوال اليوم
+    - cron: '0 */3 * * *'
+  # يتيح لك تشغيله يدوياً بضغطة زر للتجربة الآن
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch today matches and save JSON
+        run: |
+          python3 -c '
+          import urllib.request, json
+          from datetime import datetime, timezone
+
+          today = datetime.now(timezone.utc).strftime("%Y%m%d")
+          leagues = [
+              ("uefa.champions", "UEFA Champions League", "BEIN"),
+              ("eng.1", "Premier League", "BEIN"),
+              ("esp.1", "La Liga", "BEIN"),
+              ("ita.1", "Serie A", "AD SPORTS"),
+              ("fra.1", "Ligue 1", "BEIN"),
+              ("ger.1", "Bundesliga", "BEIN"),
+              ("ksa.1", "Saudi Pro League", "SSC"),
+              ("caf.nations", "AFCON", "BEIN"),
+              ("uefa.nations", "UEFA Nations League", "BEIN"),
+              ("fifa.world", "World Cup", "BEIN")
+          ]
+
+          matches = []
+          for code, name, channel in leagues:
+              try:
+                  url = f"https://espn.com{code}/scoreboard?dates={today}"
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                  with urllib.request.urlopen(req, timeout=10) as resp:
+                      data = json.loads(resp.read().decode())
+                      for ev in data.get("events", []):
+                          comp = ev.get("competitions", [{}])[0]
+                          status_type = comp.get("status", {}).get("type", {})
+                          state = status_type.get("state", "pre")
+                          status = "LIVE" if state == "in" else ("FINISHED" if state == "post" else "UPCOMING")
+                          date_str = ev.get("date", "")
+                          time_hm = date_str[11:16] if len(date_str) >= 16 else "00:00"
+                          
+                          comps = comp.get("competitors", [])
+                          if len(comps) < 2: continue
+                          home = next((c for c in comps if c.get("homeAway") == "home"), comps[0])
+                          away = next((c for c in comps if c.get("homeAway") == "away"), comps[1])
+                          
+                          h_score = home.get("score", "0")
+                          a_score = away.get("score", "0")
+                          score = time_hm if state == "pre" else f"{h_score} - {a_score}"
+                          
+                          matches.append({
+                              "league": name,
+                              "homeTeam": home.get("team", {}).get("shortDisplayName", ""),
+                              "homeLogo": home.get("team", {}).get("logo", ""),
+                              "awayTeam": away.get("team", {}).get("shortDisplayName", ""),
+                              "awayLogo": away.get("team", {}).get("logo", ""),
+                              "time": time_hm,
+                              "status": status,
+                              "score": score,
+                              "channel": channel
+                          })
+              except Exception as e:
+                  print("Skip:", code, e)
+
+          with open("matches.json", "w", encoding="utf-8") as f:
+              json.dump(matches, f, ensure_ascii=False, indent=2)
+          print(f"Saved {len(matches)} matches!")
+          '
+
+      - name: Commit and push updated matches.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add matches.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update matches" && git push)
