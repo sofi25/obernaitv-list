@@ -1,63 +1,13 @@
-name: Auto Update Football Matches
-on:
-  schedule:
-    - cron: '0 * * * *' # يعمل تلقائياً كل ساعة
-  workflow_dispatch: # يسمح لك بتشغيله يدوياً بضغطة زر للتجربة فوراً
-
-permissions:
-  contents: write
-
-jobs:
-  update-matches:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Fetch Matches
-        run: |
-          python3 -c '
-          import urllib.request, json
-
-          leagues = [
-              ("uefa.champions", "دوري أبطال أوروبا"),
-              ("eng.1", "الدوري الإنجليزي"),
-              ("esp.1", "الدوري الإسباني"),
-              ("ita.1", "الدوري الإيطالي"),
-              ("ger.1", "الدوري الألماني"),
-              ("fra.1", "الدوري الفرنسي")
-          ]
-          matches = []
-          for code, ar_name in leagues:
-              try:
-                  url = f"https://espn.com{code}/scoreboard"
-                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-                  data = json.loads(urllib.request.urlopen(req, timeout=10).read().decode())
-                  for ev in data.get("events", []):
-                      comp = ev["competitions"][0]
-                      c0, c1 = comp["competitors"][0], comp["competitors"][1]
-                      state = ev["status"]["type"]["state"]
-                      status = "LIVE" if state == "in" else ("FINISHED" if state == "post" else "UPCOMING")
-                      time_str = ev.get("date", "")[11:16] + " UTC"
-                      score = f"{c0.get(\"score\",\"0\")} - {c1.get(\"score\",\"0\")}" if status != "UPCOMING" else time_str
-                      matches.append({
-                          "league": ar_name,
-                          "homeTeam": c0["team"]["shortDisplayName"],
-                          "homeLogo": c0["team"].get("logo", ""),
-                          "awayTeam": c1["team"]["shortDisplayName"],
-                          "awayLogo": c1["team"].get("logo", ""),
-                          "time": time_str,
-                          "status": status,
-                          "score": score,
-                          "channel": "BEIN"
-                      })
-              except Exception:
-                  pass
-
-          with open("matches.json", "w", encoding="utf-8") as f:
-              json.dump(matches, f, ensure_ascii=False, indent=2)
-          '
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@://github.com"
-          git add matches.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update matches" && git push)
+[
+  {
+    "league": "دوري أبطال أوروبا",
+    "homeTeam": "ريال مدريد",
+    "homeLogo": "https://espncdn.com",
+    "awayTeam": "مانشستر سيتي",
+    "awayLogo": "https://espncdn.com",
+    "time": "21:00",
+    "status": "UPCOMING",
+    "score": "21:00",
+    "channel": "BEIN"
+  }
+]
