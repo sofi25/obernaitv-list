@@ -14,6 +14,100 @@ http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/398
 http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/399
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 7 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/4e3343eec8d72996f680438e28ef9cb7.png" group-title="Sport International",AR: beIN SPORTS 7 ᴴᴰ
 http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/400
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="SP:Bein News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="all",SP:Bein News
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/68.m3u
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="SP:Bein Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="all",SP:Bein Sports
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1223.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5192.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1072.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5195.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/716.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5193.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1073.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5196.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/717.m3u
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1602.m3u
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1070.m3u
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3464.m3u
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5143.m3u
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1603.m3u
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1071.m3u
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3463.m3u
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5144.m3u
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1604.m3u
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/77.m3u
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3462.m3u
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5145.m3u
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1605.m3u
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/78.m3u
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3476.m3u
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/8535.m3u
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/79.m3u
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5146.m3u
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3477.m3u
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/13790.m3u
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/80.m3u
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5147.m3u
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3478.m3u
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/565.m3u
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/81.m3u
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5148.m3u
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 HQ
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/3479.m3u
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 FHD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/13791.m3u
+#EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-name="SP:Bein FRA1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="all",SP:Bein FRA1 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/13793.m3u
+#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-name="SP:Bein FRA2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="all",SP:Bein FRA2 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/13794.m3u
+#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-name="SP:Bein FRA3 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="all",SP:Bein FRA3 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/13795.m3u
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-name="SP:Bein ENG1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png" group-title="all",SP:Bein ENG1 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/82.m3u
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-name="SP:Bein ENG2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f214%2fbein-sports-english-1.png" group-title="all",SP:Bein ENG2 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/83.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SP:Bein Sports AFC HD" tvg-logo="" group-title="all",SP:Bein Sports AFC HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/48079.m3u
+#EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-name="SP:Bein Xtra2 HD" tvg-logo="" group-title="all",SP:Bein Xtra2 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/21276.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="all",SP:Bein Xtra3 HD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/5194.m3u
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F35%2Fbein-sports-hd-1.png" group-title="all",SP:Bein Xtra3 SD
+http://iptv.ndasat.xyz:88/live/1stMovies/CZoKXgsXkYdjF/1074.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 1 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/cf8cec26708c9aedc1d356e8e5268e39.png" group-title="Sport International",CH: Blue Sport 1 ᴴᴰ
 http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/68560
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 2 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/cf8cec26708c9aedc1d356e8e5268e39.png" group-title="Sport International",CH: Blue Sport 2 ᴴᴰ
