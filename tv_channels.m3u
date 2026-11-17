@@ -1,19 +1,546 @@
-#EXTINF:-1 tvg-id="" tvg-name="★✦  ARABIAN BEIN SPORT  ✦★" tvg-logo="http://tv.luzer.org:8080/images/b75a86ddee3d3e32a2181c066fc749fd.jpg" group-title="Sport International",★✦  ARABIAN BEIN SPORT  ✦★
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/497
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 1 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="Sport International",AR: beIN SPORTS 1 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/394
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 2 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="Sport International",AR: beIN SPORTS 2 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/395
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 3 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/75cb70a9ebbe32d530dad9173b66dc87.png" group-title="Sport International",AR: beIN SPORTS 3 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/18055
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 4 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/b92eff988207e6cdb031d865eea25a5c.png" group-title="Sport International",AR: beIN SPORTS 4 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/397
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 5 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/6756d6f85708029ea767603d843f8e19.png" group-title="Sport International",AR: beIN SPORTS 5 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/398
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 6 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/073b8b5d1308e03bcc2511bfb07498c0.png" group-title="Sport International",AR: beIN SPORTS 6 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/399
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 7 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/4e3343eec8d72996f680438e28ef9cb7.png" group-title="Sport International",AR: beIN SPORTS 7 ᴴᴰ
-http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/400
+#EXTINF:-1 tvg-id="beinsportsglobalar.qa" tvg-name="BeIN Sport Free" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport Free
+http://sa.xurvani.cfd:80/564500400/3839746022/212311
+#EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="BeIN Sport News" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport News
+http://sa.xurvani.cfd:80/564500400/3839746022/212312
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="BeIN Sport NBA" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport NBA
+http://sa.xurvani.cfd:80/564500400/3839746022/212310
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sport 01 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 01 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212313
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sport 02 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 02 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212314
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BeIN Sport 03 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 03 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212316
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sport 04 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 04 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212317
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sport 05 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 05 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212318
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sport 06 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 06 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212319
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sport 07 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 07 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212320
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="BeIN Sport 08 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 08 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212321
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BeIN Sport 09 (HEVC)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 09 (HEVC)
+http://sa.xurvani.cfd:80/564500400/3839746022/212322
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sport 01 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 01 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212325
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sport 02 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 02 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212326
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BeIN Sport 03 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 03 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212328
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sport 04 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 04 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212329
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sport 05 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 05 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212330
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sport 06 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 06 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212331
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sport 07 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 07 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212332
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="BeIN Sport 08 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 08 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212333
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BeIN Sport 09 (1080)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 09 (1080)
+http://sa.xurvani.cfd:80/564500400/3839746022/212334
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sport 01 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 01 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212337
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sport 02 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 02 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212338
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BeIN Sport 03 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 03 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212340
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sport 04 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 04 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212341
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sport 05 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 05 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212342
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sport 06 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 06 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212343
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sport 07 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 07 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212344
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="BeIN Sport 08 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 08 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212345
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BeIN Sport 09 (720)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 09 (720)
+http://sa.xurvani.cfd:80/564500400/3839746022/212346
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sport 01 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 01 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212349
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sport 02 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 02 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212350
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BeIN Sport 03 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 03 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212352
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sport 04 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 04 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212353
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sport 05 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 05 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212354
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sport 06 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 06 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212355
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sport 07 (540)" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 07 (540)
+http://sa.xurvani.cfd:80/564500400/3839746022/212356
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 1 4K" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 1 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/522358
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 2 4K" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 2 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/522357
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 3 4K" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 3 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/653841
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 4 4k" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 4 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/670925
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 5 4k" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 5 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/670926
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 6 4k" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 6 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/670927
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 7 4k" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 7 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/670928
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 8 4k" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 8 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/670929
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 9 4k" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 9 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/670930
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 1 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/653845
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 2 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/653844
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 3 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/653843
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN SPORT XTRA 1 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 1 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/212351
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN SPORT XTRA 2 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 2 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/212339
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 3 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN SPORT XTRA 3 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/653842
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 HEVC" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 1 HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/596737
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 HEVC" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 2 HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/596736
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 HEVC" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 3 HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/596735
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 HEVC" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 4 HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/596734
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 01 FHD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 01 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/596733
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 02 FHD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 02 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/596732
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 03 FHD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 03 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/596731
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 04 FHD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 04 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/596730
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 01 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 01 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/596729
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 02 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 02 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/596728
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 03 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 03 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/596727
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 04 HD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 04 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/596726
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 01 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 01 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/596725
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 02 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 02 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/596724
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 03 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 03 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/596723
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 04 SD" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",beIN MAX 04 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/596722
+#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="BeIN Sport 01 EN" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 01 EN
+http://sa.xurvani.cfd:80/564500400/3839746022/212359
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 02 EN" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 02 EN
+http://sa.xurvani.cfd:80/564500400/3839746022/604973
+#EXTINF:-1 tvg-id="beinsports1frar.qa" tvg-name="BeIN Sport 01 FR" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 01 FR
+http://sa.xurvani.cfd:80/564500400/3839746022/212362
+#EXTINF:-1 tvg-id="beinsports2frar.qa" tvg-name="BeIN Sport 02 FR" tvg-logo="https://lo1.in/bein/bein.png" group-title="⚽ BeIN Sports (A)",BeIN Sport 02 FR
+http://sa.xurvani.cfd:80/564500400/3839746022/212363
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS-HD" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/05/bein_sports_logo-freelogovectors.net_.png" group-title="⚽ BeIN Sports (G)",BEIN SPORTS-HD
+http://sa.xurvani.cfd:80/564500400/3839746022/574345
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS News-HD" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/05/bein_sports_logo-freelogovectors.net_.png" group-title="⚽ BeIN Sports (G)",BEIN SPORTS News-HD
+http://sa.xurvani.cfd:80/564500400/3839746022/574344
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 1-4k" tvg-logo="https://lo1.in/fr/bns1.png" group-title="⚽ BeIN Sports (G)",Bein sport 1-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569518
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 2-4k" tvg-logo="https://lo1.in/fr/bns2.png" group-title="⚽ BeIN Sports (G)",Bein sport 2-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569517
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 3-4k" tvg-logo="https://lo1.in/fr/bns3.png" group-title="⚽ BeIN Sports (G)",Bein sport 3-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569516
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 4-4k" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="⚽ BeIN Sports (G)",Bein sport 4-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569515
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 5-4k" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="⚽ BeIN Sports (G)",Bein sport 5-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569514
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 6-4k" tvg-logo="https://lo1.in/fr/bnsm6.png" group-title="⚽ BeIN Sports (G)",Bein sport 6-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569513
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 7-4k" tvg-logo="https://lo1.in/fr/bnsm7.png" group-title="⚽ BeIN Sports (G)",Bein sport 7-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569512
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 8-4k" tvg-logo="https://lo1.in/fr/bnsm8.png" group-title="⚽ BeIN Sports (G)",Bein sport 8-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569511
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 9-4k" tvg-logo="https://lo1.in/fr/bnsm9.png" group-title="⚽ BeIN Sports (G)",Bein sport 9-4k
+http://sa.xurvani.cfd:80/564500400/3839746022/569510
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 1-720" tvg-logo="https://lo1.in/fr/bns1.png" group-title="⚽ BeIN Sports (G)",Bein sport 1-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569493
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 2-720" tvg-logo="https://lo1.in/fr/bns2.png" group-title="⚽ BeIN Sports (G)",Bein sport 2-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569492
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 3-720" tvg-logo="https://lo1.in/fr/bns3.png" group-title="⚽ BeIN Sports (G)",Bein sport 3-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569491
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 4-720" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="⚽ BeIN Sports (G)",Bein sport 4-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569490
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 5-720" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="⚽ BeIN Sports (G)",Bein sport 5-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569489
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 6-720" tvg-logo="https://lo1.in/fr/bnsm6.png" group-title="⚽ BeIN Sports (G)",Bein sport 6-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569488
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 7-720" tvg-logo="https://lo1.in/fr/bnsm7.png" group-title="⚽ BeIN Sports (G)",Bein sport 7-720
+http://sa.xurvani.cfd:80/564500400/3839746022/569487
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 1-540" tvg-logo="https://lo1.in/fr/bns1.png" group-title="⚽ BeIN Sports (G)",Bein sport 1-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569500
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 2-540" tvg-logo="https://lo1.in/fr/bns2.png" group-title="⚽ BeIN Sports (G)",Bein sport 2-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569499
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 3-540" tvg-logo="https://lo1.in/fr/bns3.png" group-title="⚽ BeIN Sports (G)",Bein sport 3-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569498
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 4-540" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="⚽ BeIN Sports (G)",Bein sport 4-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569497
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 5-540" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="⚽ BeIN Sports (G)",Bein sport 5-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569496
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 6-540" tvg-logo="https://lo1.in/fr/bnsm6.png" group-title="⚽ BeIN Sports (G)",Bein sport 6-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569495
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 7-540" tvg-logo="https://lo1.in/fr/bnsm7.png" group-title="⚽ BeIN Sports (G)",Bein sport 7-540
+http://sa.xurvani.cfd:80/564500400/3839746022/569494
+#EXTINF:-1 tvg-id="" tvg-name="STC TV: Kidz Zone Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-9pa1gXDMrhLqYZEKOBGB-rMU9xtPcQxsYjqKuFEhOfTCQaXxpXoBGq0U1LrzxJ9vRA&usqp=CAU" group-title="Kids - أطفال",STC TV: Kidz Zone Max
+http://sa.xurvani.cfd:80/564500400/3839746022/323688
+
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 1 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814113
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 2 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814112
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 3 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 3 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814111
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 4 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 4 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814110
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 5 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 5 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814109
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 6 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 6 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814108
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 7 FHD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 7 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/814107
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 1 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814106
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 2 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814105
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 3 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814104
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 4 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 4 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814103
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 5 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 5 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814102
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 6 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 6 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814101
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 7 HD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 7 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/814100
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 1 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 1 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814099
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 2 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 2 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814098
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 3 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 3 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814097
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 4 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 4 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814096
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 5 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 5 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814095
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 6 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 6 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814094
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah APP 7 SD" tvg-logo="https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ TH - الدوري السعودي (منصة)",Thmanyah APP 7 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/814093
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 1 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 1 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/716208
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/716206
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 1 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/716408
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 2 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 2 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/716207
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/716205
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 2 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/716407
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 3 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 3 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/716411
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/716410
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 3 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/716409
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 4 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 4 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/768018
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 4 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/768017
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 4 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 4 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/768016
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 5 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah 5 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/783706
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah minasa 1 4k" tvg-logo="https://www.e3lam.com/images/large/2024/10/1728745558-0.jpg" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah minasa 1 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/720198
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah minasa 1 HD" tvg-logo="https://www.e3lam.com/images/large/2024/10/1728745558-0.jpg" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah minasa 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/720202
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah minasa 2 4k" tvg-logo="https://www.e3lam.com/images/large/2024/10/1728745558-0.jpg" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah minasa 2 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/720197
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah minasa 2 HD" tvg-logo="https://www.e3lam.com/images/large/2024/10/1728745558-0.jpg" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah minasa 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/720201
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah minasa 3 4k" tvg-logo="https://www.e3lam.com/images/large/2024/10/1728745558-0.jpg" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah minasa 3 4k
+http://sa.xurvani.cfd:80/564500400/3839746022/720196
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah minasa 3 HD" tvg-logo="https://www.e3lam.com/images/large/2024/10/1728745558-0.jpg" group-title="⚽ TH - الدوري السعودي (ستلايت)",Thmanyah minasa 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/720200
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 1 FHD" tvg-logo="https://lo1.in/arss/ksasport1.png" group-title="⚽ Sports - الرياضية",Sport: KSA 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/423408
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 1 HD" tvg-logo="https://lo1.in/arss/ksasport1.png" group-title="⚽ Sports - الرياضية",Sport: KSA 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/423407
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 2 FHD" tvg-logo="https://lo1.in/arss/ksasport2.png" group-title="⚽ Sports - الرياضية",Sport: KSA 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/423410
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 2 HD" tvg-logo="https://lo1.in/arss/ksasport2.png" group-title="⚽ Sports - الرياضية",Sport: KSA 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/423409
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 3 HD" tvg-logo="https://lo1.in/arss/ksasport3.png" group-title="⚽ Sports - الرياضية",Sport: KSA 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/423411
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 4 HD" tvg-logo="https://lo1.in/arss/ksasport4.png" group-title="⚽ Sports - الرياضية",Sport: KSA 4 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/423413
+#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="SPORT: AD Sports 1 HD" tvg-logo="https://lo1.in/FCB/adsp1hd1.png" group-title="⚽ Sports - الرياضية",SPORT: AD Sports 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/35088
+#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="SPORT: AD Sports 2 HD" tvg-logo="https://lo1.in/FCB/adsport2sd.png" group-title="⚽ Sports - الرياضية",SPORT: AD Sports 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/35087
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD Sports Asia 1" tvg-logo="https://lo1.in/FCB/adsp1hd1.png" group-title="⚽ Sports - الرياضية",Sport: AD Sports Asia 1
+http://sa.xurvani.cfd:80/564500400/3839746022/522360
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD Sports Asia 2" tvg-logo="https://lo1.in/FCB/adsport2sd.png" group-title="⚽ Sports - الرياضية",Sport: AD Sports Asia 2
+http://sa.xurvani.cfd:80/564500400/3839746022/522359
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 1 (FHD)" tvg-logo="https://lo1.in/FCB/adsp1hd1.png" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 1 (FHD)
+http://sa.xurvani.cfd:80/564500400/3839746022/424153
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 1 (HD)" tvg-logo="https://lo1.in/FCB/adsp1hd1.png" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 1 (HD)
+http://sa.xurvani.cfd:80/564500400/3839746022/424156
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 2 (FHD)" tvg-logo="https://lo1.in/FCB/adsport2sd.png" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 2 (FHD)
+http://sa.xurvani.cfd:80/564500400/3839746022/424154
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 2 (HD)" tvg-logo="https://lo1.in/FCB/adsport2sd.png" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 2 (HD)
+http://sa.xurvani.cfd:80/564500400/3839746022/424157
+#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="SPORT: AL KASS 1 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/35207
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ALKASS 1 HD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: ALKASS 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/836667
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="SPORT: AL KASS 2 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/35206
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ALKASS 2 HD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: ALKASS 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/836666
+#EXTINF:-1 tvg-id="alkassthree.qa" tvg-name="SPORT: AL KASS 3 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 3 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/35473
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ALKASS 3 HD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: ALKASS 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/836665
+#EXTINF:-1 tvg-id="alkasseight.qa" tvg-name="SPORT: AL KASS 4 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 4 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/35472
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ALKASS 4 HD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: ALKASS 4 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/836664
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 5 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 5 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/35471
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ALKASS 5 HD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: ALKASS 5 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/836663
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 6 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 6 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/396601
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 7 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 7 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/732254
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 8 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 8 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/732253
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS SHOOF 1 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS SHOOF 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/732252
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS SHOOF 2 FHD" tvg-logo="https://dohagym.com/wp-content/uploads/2024/04/AGWC-2024-Logos_AlKass.png" group-title="⚽ Sports - الرياضية",SPORT: AL KASS SHOOF 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/732251
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Bahrain Sports 1 HD" tvg-logo="https://lo1.in/ars/bahrains.png" group-title="⚽ Sports - الرياضية",Sports: Bahrain Sports 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421606
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Bahrain Sports 2 HD" tvg-logo="https://lo1.in/ars/bahrains2.png" group-title="⚽ Sports - الرياضية",Sports: Bahrain Sports 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421607
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 1" tvg-logo="https://lo1.in/uae1/dubrac1.png" group-title="⚽ Sports - الرياضية",Sports: Dubai Racing 1
+http://sa.xurvani.cfd:80/564500400/3839746022/421594
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 2" tvg-logo="https://lo1.in/uae1/dubrac02.png" group-title="⚽ Sports - الرياضية",Sports: Dubai Racing 2
+http://sa.xurvani.cfd:80/564500400/3839746022/421595
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 3" tvg-logo="https://4.bp.blogspot.com/-o47TqcWRmZQ/WusfJbqzO2I/AAAAAAAAAbE/I8c_R0oM-4oaXPbManwSHUoMshDBNvQsgCLcBGAs/w600-h450-p-k-no-nu/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25AF%25D8%25A8%25D9%258A%2B%25D8%25B1%25D9%258A%25D8%25B3%25D9%2586%25D8%25AC%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.png" group-title="⚽ Sports - الرياضية",Sports: Dubai Racing 3
+http://sa.xurvani.cfd:80/564500400/3839746022/421596
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Sport 1 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="⚽ Sports - الرياضية",Sports: Dubai Sport 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421597
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Sport 2 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="⚽ Sports - الرياضية",Sports: Dubai Sport 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421598
+#EXTINF:-1 tvg-id="" tvg-name="Sports: KSA 24 Sport HD" tvg-logo="https://www.zarkachat.com/wp-content/uploads/2020/03/sports-24.jpg" group-title="⚽ Sports - الرياضية",Sports: KSA 24 Sport HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421593
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Kuwait Sport HD" tvg-logo="https://lo1.in/FCB/kts1.png" group-title="⚽ Sports - الرياضية",Sports: Kuwait Sport HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421605
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Sharjah Sport" tvg-logo="https://lo1.in/ars/alshsrjah.png" group-title="⚽ Sports - الرياضية",Sports: Sharjah Sport
+http://sa.xurvani.cfd:80/564500400/3839746022/421592
+#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT HEVC" tvg-logo="https://lo1.in/egyy/flg.png" group-title="⚽ Sports - الرياضية",Sports: ON SPORT HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/421580
+#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT MAX HEVC" tvg-logo="https://lo1.in/egyy/flg.png" group-title="⚽ Sports - الرياضية",Sports: ON SPORT MAX HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/421583
+#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT PLUS HEVC" tvg-logo="https://lo1.in/egyy/flg.png" group-title="⚽ Sports - الرياضية",Sports: ON SPORT PLUS HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/421585
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Al Rabiaa Sport" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F950%2Falrabiaa-sport-2.png" group-title="⚽ Sports - الرياضية",Sports: Al Rabiaa Sport
+http://sa.xurvani.cfd:80/564500400/3839746022/421608
+#EXTINF:-1 tvg-id="" tvg-name="Sports: YAS Sports HD" tvg-logo="https://4.bp.blogspot.com/-JVNjabkmpxI/WQz_WNyPP-I/AAAAAAAAFww/3DdgH_LtuiM0sQxawKwrNtQASVXOtGYcACLcB/s1600/yas_sports_ae.png" group-title="⚽ Sports - الرياضية",Sports: YAS Sports HD
+http://sa.xurvani.cfd:80/564500400/3839746022/421600
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Zamalek Tv" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_LCwB7ayllbTIccEUXwba03lJ-23pL3ocbYM_-=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Sports - الرياضية",Sports: Zamalek Tv
+http://sa.xurvani.cfd:80/564500400/3839746022/421591
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Alahly Club TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeygXj3JRhsHBg9nj_ViSnwShakDz-WMGGj8VMU5F0XtSDleBP4RCXy5Ke&s=10" group-title="⚽ Sports - الرياضية",Sports: Alahly Club TV
+http://sa.xurvani.cfd:80/564500400/3839746022/421590
+#EXTINF:-1 tvg-id="" tvg-name="Sports: WWE shiad ive event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfvU4fCVApmL-LzIydjGeLKloqQcR7nYbonLBATjfvw&s" group-title="⚽ Sports - الرياضية",Sports: WWE shiad ive event
+http://sa.xurvani.cfd:80/564500400/3839746022/424116
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 1 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738894
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/738881
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 1 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/738875
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 2 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738893
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/738880
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 2 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/738874
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 3 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738892
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/738879
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 3 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/738873
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 4 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738891
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 4 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/738878
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 4 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/738872
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 5 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738890
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 5 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/738877
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 5 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/738871
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 6 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738889
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 6 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/738876
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 6 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/738870
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 7 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 7 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738888
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 8 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 8 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738887
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 9 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 9 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738886
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ ALWAN - ألوان",Alwan Sport 10 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738885
+#EXTINF:-1 tvg-id="" tvg-name="Alwan WWE 4K" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/w4.jpg" group-title="⚽ ALWAN - ألوان",Alwan WWE 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738882
+#EXTINF:-1 tvg-id="" tvg-name="Alwan UFC 4K" tvg-logo="https://play-lh.googleusercontent.com/-yL16irvtghCeGC5PVmI4txRKE1bMWLwieFqv6PjqyC01U4suDtvlsYkVTzxYld9ND4" group-title="⚽ ALWAN - ألوان",Alwan UFC 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738884
+#EXTINF:-1 tvg-id="" tvg-name="Alwan F1 4K" tvg-logo="https://www.pngall.com/wp-content/uploads/15/F1-Logo-PNG-Photo.png" group-title="⚽ ALWAN - ألوان",Alwan F1 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738883
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 1 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Aflam 1 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738869
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 2 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Aflam 2 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738868
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 3 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Aflam 3 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738867
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 4 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Aflam 4 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738866
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aghani 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Aghani 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738861
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Alwathaeqye 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Alwathaeqye 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738864
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Anime 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Anime 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738857
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Atfal 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Atfal 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738863
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Bollywood 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Bollywood 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738860
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Korea 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Korea 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738859
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Mosalsalat 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Mosalsalat 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738862
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Mosalsalat+ 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Mosalsalat+ 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738858
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Turkey 4K" tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="⚽ ALWAN - ألوان",Alwan Turkey 4K
+http://sa.xurvani.cfd:80/564500400/3839746022/738865
+#EXTINF:-1 tvg-id="" tvg-name="Shasha 1 FHD" tvg-logo="https://pbs.twimg.com/media/G0rnBv4XkAEABrD.jpg" group-title="⚽ Sports - الرياضية",Shasha 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/723252
+#EXTINF:-1 tvg-id="" tvg-name="Shasha 1 HD" tvg-logo="https://pbs.twimg.com/media/G0rnBv4XkAEABrD.jpg" group-title="⚽ Sports - الرياضية",Shasha 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/723249
+#EXTINF:-1 tvg-id="" tvg-name="Shasha 2 FHD" tvg-logo="https://pbs.twimg.com/media/G0rnBv4XkAEABrD.jpg" group-title="⚽ Sports - الرياضية",Shasha 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/723251
+#EXTINF:-1 tvg-id="" tvg-name="Shasha 2 HD" tvg-logo="https://pbs.twimg.com/media/G0rnBv4XkAEABrD.jpg" group-title="⚽ Sports - الرياضية",Shasha 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/723248
+#EXTINF:-1 tvg-id="" tvg-name="Shasha 3 FHD" tvg-logo="https://pbs.twimg.com/media/G0rnBv4XkAEABrD.jpg" group-title="⚽ Sports - الرياضية",Shasha 3 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/723250
+#EXTINF:-1 tvg-id="" tvg-name="Shasha 3 HD" tvg-logo="https://pbs.twimg.com/media/G0rnBv4XkAEABrD.jpg" group-title="⚽ Sports - الرياضية",Shasha 3 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/723247
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 1" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 1
+http://sa.xurvani.cfd:80/564500400/3839746022/719204
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 2" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 2
+http://sa.xurvani.cfd:80/564500400/3839746022/719203
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 3" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 3
+http://sa.xurvani.cfd:80/564500400/3839746022/719202
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 4" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 4
+http://sa.xurvani.cfd:80/564500400/3839746022/719201
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 5" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 5
+http://sa.xurvani.cfd:80/564500400/3839746022/719200
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 6" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 6
+http://sa.xurvani.cfd:80/564500400/3839746022/719199
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 7" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 7
+http://sa.xurvani.cfd:80/564500400/3839746022/719198
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 8" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 8
+http://sa.xurvani.cfd:80/564500400/3839746022/719197
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 9" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 9
+http://sa.xurvani.cfd:80/564500400/3839746022/719196
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 10" tvg-logo="https://i.ytimg.com/vi/wnqS5jYytHM/sddefault.jpg" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 10
+http://sa.xurvani.cfd:80/564500400/3839746022/719195
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOEFJj814ynJ1qIrZLi_jkyaxWg5H-B9aRA&s" group-title="⚽ Sports - الرياضية",1001 La liga 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/729724
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOEFJj814ynJ1qIrZLi_jkyaxWg5H-B9aRA&s" group-title="⚽ Sports - الرياضية",1001 La liga 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/729723
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOEFJj814ynJ1qIrZLi_jkyaxWg5H-B9aRA&s" group-title="⚽ Sports - الرياضية",1001 La liga 1 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/729722
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOEFJj814ynJ1qIrZLi_jkyaxWg5H-B9aRA&s" group-title="⚽ Sports - الرياضية",1001 La liga 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/729721
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOEFJj814ynJ1qIrZLi_jkyaxWg5H-B9aRA&s" group-title="⚽ Sports - الرياضية",1001 La liga 2HD
+http://sa.xurvani.cfd:80/564500400/3839746022/729720
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOEFJj814ynJ1qIrZLi_jkyaxWg5H-B9aRA&s" group-title="⚽ Sports - الرياضية",1001 La liga 2 SD
+http://sa.xurvani.cfd:80/564500400/3839746022/729719
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 4" tvg-logo="https://www.365scores.com/ar/news/magazine/wp-content/uploads/2023/06/MLS-scaled.jpg" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 4
+http://sa.xurvani.cfd:80/564500400/3839746022/585000
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 3" tvg-logo="https://www.365scores.com/ar/news/magazine/wp-content/uploads/2023/06/MLS-scaled.jpg" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 3
+http://sa.xurvani.cfd:80/564500400/3839746022/585001
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 1" tvg-logo="https://www.365scores.com/ar/news/magazine/wp-content/uploads/2023/06/MLS-scaled.jpg" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 1
+http://sa.xurvani.cfd:80/564500400/3839746022/585003
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 2" tvg-logo="https://www.365scores.com/ar/news/magazine/wp-content/uploads/2023/06/MLS-scaled.jpg" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 2
+http://sa.xurvani.cfd:80/564500400/3839746022/585002
+#EXTINF:-1 tvg-id="" tvg-name="Shaid 3 Evnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62oWia0vIHNWFQm_csbjhLEkqlRylobxiPQ&s" group-title="⚽ Sports - الرياضية",Shaid 3 Evnet
+http://sa.xurvani.cfd:80/564500400/3839746022/719192
+#EXTINF:-1 tvg-id="" tvg-name="Shaid 2 Evnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62oWia0vIHNWFQm_csbjhLEkqlRylobxiPQ&s" group-title="⚽ Sports - الرياضية",Shaid 2 Evnet
+http://sa.xurvani.cfd:80/564500400/3839746022/719193
+#EXTINF:-1 tvg-id="" tvg-name="Shaid 1 Evnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62oWia0vIHNWFQm_csbjhLEkqlRylobxiPQ&s" group-title="⚽ Sports - الرياضية",Shaid 1 Evnet
+http://sa.xurvani.cfd:80/564500400/3839746022/719194
+#EXTINF:-1 tvg-id="" tvg-name="Diwan Sport 1" tvg-logo="https://play-lh.googleusercontent.com/xbhr_s0-OuLJQwLy2qtvexAyLbmj9RRfT42_KQ5x6OGAv3NuO8FrPOktZrtBokC0ERM=w600-h300-pc0xffffff-pd" group-title="⚽ Sports - الرياضية",Diwan Sport 1
+http://sa.xurvani.cfd:80/564500400/3839746022/729718
+#EXTINF:-1 tvg-id="" tvg-name="Diwan Sport 2" tvg-logo="https://play-lh.googleusercontent.com/xbhr_s0-OuLJQwLy2qtvexAyLbmj9RRfT42_KQ5x6OGAv3NuO8FrPOktZrtBokC0ERM=w600-h300-pc0xffffff-pd" group-title="⚽ Sports - الرياضية",Diwan Sport 2
+http://sa.xurvani.cfd:80/564500400/3839746022/729717
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Dazn 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ Sports - الرياضية",SPORT: DE: Dazn 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/179063
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Dazn 2 FHD" tvg-logo="https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg" group-title="⚽ Sports - الرياضية",SPORT: DE: Dazn 2 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/179064
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 1 HD" tvg-logo="http://bit.ly/2lPjGrV" group-title="⚽ Sports - الرياضية",SPORT: FR: Eurosport 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/40947
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 2 HD" tvg-logo="http://bit.ly/2ME6IbE" group-title="⚽ Sports - الرياضية",SPORT: FR: Eurosport 2 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/40944
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" group-title="⚽ Sports - الرياضية",SPORT: Real Madrid TV
+http://sa.xurvani.cfd:80/564500400/3839746022/94202
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: PREMIER SPORTS 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" group-title="⚽ Sports - الرياضية",SPORT: UK: PREMIER SPORTS 1
+http://sa.xurvani.cfd:80/564500400/3839746022/179059
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: PREMIER SPORTS 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1442.png" group-title="⚽ Sports - الرياضية",SPORT: UK: PREMIER SPORTS 2
+http://sa.xurvani.cfd:80/564500400/3839746022/179060
+#EXTINF:-1 tvg-id="" tvg-name="V sport 1 HD Norway" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-1-no.png" group-title="⚽ Sports - الرياضية",V sport 1 HD Norway
+http://sa.xurvani.cfd:80/564500400/3839746022/597708
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 FHD" tvg-logo="https://www.tsn.ca/polopoly_fs/1.1104783!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="⚽ Sports - الرياضية",TSN 1 FHD
+http://sa.xurvani.cfd:80/564500400/3839746022/597706
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV HD" tvg-logo="https://www.freeetv.com/images/reydddd/im" group-title="⚽ Sports - الرياضية",ARG: DEPORTV HD
+http://sa.xurvani.cfd:80/564500400/3839746022/497541
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="https://img.kooora.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="⚽ Sports - الرياضية",PT: SPORT TV 1 HEVC
+http://sa.xurvani.cfd:80/564500400/3839746022/185896
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV3_Sport_logo_2018.png" group-title="⚽ Sports - الرياضية",DK: TV3 SPORT HD
+http://sa.xurvani.cfd:80/564500400/3839746022/495149
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuper2alb.jpg" group-title="⚽ Sports - الرياضية",AL: Super Sport 2
+http://sa.xurvani.cfd:80/564500400/3839746022/193158
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuper1alb.jpg" group-title="⚽ Sports - الرياضية",AL: Super Sport 1
+http://sa.xurvani.cfd:80/564500400/3839746022/193157
+#EXTINF:-1 tvg-id="" tvg-name="SW: TV3 SPORT HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c8/TV3_Sport_%282016-.n.v.%29.png/revision/latest?cb=20180107140409" group-title="⚽ Sports - الرياضية",SW: TV3 SPORT HD
+http://sa.xurvani.cfd:80/564500400/3839746022/495590
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xIR6M1l56KR_Q4T-asUrvlydZRYsRItW3w&s" group-title="⚽ Sports - الرياضية",ARG: TYC SPORTS HD
+http://sa.xurvani.cfd:80/564500400/3839746022/497485
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD" tvg-logo="https://img.kooora.com/?i=logo_sport%2Fsport1_germany.jpg" group-title="⚽ Sports - الرياضية",BR: SPORTV 1 HD
+http://sa.xurvani.cfd:80/564500400/3839746022/497370
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 1 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/cf8cec26708c9aedc1d356e8e5268e39.png" group-title="Sport International",CH: Blue Sport 1 ᴴᴰ
 http://balkanius.xyz:8080/DamirDjifo/c2JrtSHnGP/68560
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 2 ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/cf8cec26708c9aedc1d356e8e5268e39.png" group-title="Sport International",CH: Blue Sport 2 ᴴᴰ
